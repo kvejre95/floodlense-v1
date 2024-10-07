@@ -1,0 +1,26 @@
+# Ignore Python virtual environment
+myenv/
+
+# Ignore Python byte code
+__pycache__/
+*.pyc
+
+# Ignore version control
+.git
+.gitignore
+
+# Ignore editor specific files
+.vscode/
+.idea/
+
+# Ignore any local configuration files
+*.config
+
+# Ignore logs
+*.log
+
+# Ignore the Dockerfile itself
+Dockerfile
+
+# Ignore .env
+*.env
